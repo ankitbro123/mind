@@ -1,2 +1,2 @@
-# mind
+# side
 this is preteshic
