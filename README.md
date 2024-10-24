@@ -1,0 +1,2 @@
+# mind
+this is preteshic
